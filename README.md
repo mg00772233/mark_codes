@@ -1,2 +1,2 @@
 # public_code
-code to share/show off ;)
+Random code that I've found useful
